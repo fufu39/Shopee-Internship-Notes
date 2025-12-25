@@ -1,4 +1,4 @@
-<img src="./README.assets/logo.png" alt="logo" style="zoom: 150%;" />
+<img src="./其他/README.assets/logo.png" alt="logo" style="zoom: 150%;" />
 
 # **Shopee实习经历**
 
